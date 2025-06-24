@@ -22,7 +22,7 @@ const Contact = () => {
                     <a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer"><Image src={assets.linkedin} alt="LinkedIn" width={48} height={48} /></a>
                 </li>
                 <li>
-                    <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer"><Image src={assets.twitter} alt="Twitter" width={48} height={48} /></a>
+                    <a href="https://x.com/" target="_blank" rel="noopener noreferrer"><Image src={assets.twitter} alt="X" width={48} height={48} /></a>
                 </li>
             </ul>
 
