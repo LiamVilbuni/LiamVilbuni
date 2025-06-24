@@ -1,0 +1,12 @@
+.header {
+  padding: 200px;
+  padding-top: 225px;
+  text-align: center;
+  font-family: var(--font-orbitron);
+  height: 100vh;
+}
+
+.header h1 {
+  font-size: 4.5rem;
+  margin: 0;
+}

@@ -1,0 +1,40 @@
+.projects {
+    padding: 200px;
+    height: 100vh;
+}
+
+.projects h1 {
+    text-align: center;
+    margin: 0;
+    font-size: 4.5rem;
+    font-family: var(--font-unica-one);
+}
+
+.projects p {
+    font-size: 1.2rem;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.projects ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.projects ul li {
+    padding-left: 20px;
+    overflow: hidden;
+}
+
+.projects__blank {
+    height: 80px;
+}
+
+.projects ul li h2 a {
+    text-decoration: none;
+    text-align: center;
+    font-size: 2rem;
+    padding-left: 100px;
+    color:  var(--matrixgreen);
+}

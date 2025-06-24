@@ -1,0 +1,21 @@
+* {
+  font-family: var(--font-ibm-plex-mono);
+  color: var(--snowwhite);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+
+  background-color: var(--jetblack);
+  color: var(--snowwhite);
+
+  overflow-x: hidden;
+  overflow-y: hidden;
+  -webkit-font-smoothing: antialiased;
+}

@@ -1,0 +1,30 @@
+.about {
+    padding: 200px;
+    height: 100vh;
+}
+
+.about h1 {
+    font-size: 4.5rem;
+    margin: 0;
+    text-align: center;
+    font-family: var(--font-unica-one);
+}
+
+.about p {
+    font-size: 1.2rem;
+    text-align: center;
+    margin-top: 20px;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.about #chess-link {
+    color: var(--snowwhite);
+    text-decoration: none;
+}
+
+.about #chess-link:hover {
+    color: var(--cyberteal);
+    transition: color 0.3s;
+}
