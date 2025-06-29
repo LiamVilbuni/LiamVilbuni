@@ -8,10 +8,10 @@ I'm passionate about coding and exploring new technologies. In my free time, you
 
 ## 🔧 My Skill Set
 
-- **Programming Languages:** Python, C, C++, JavaScript
+- **Programming Languages:** Python, C, C++, Java, JavaScript
 - **Frameworks & Libraries:** Pygame, Flask, React, Next.js
 - **Databases:** MySQL, SQLite3
-- **Tools:** VScode, Pycharm
+- **Tools:** VScode, Pycharm, IntelliJ IDEA, Git
 
 ## 🌱 Currently Learning
 
@@ -29,8 +29,17 @@ I'm currently focused on improving my skills in CTFs and exploring AI.
 ## 🌐 My Projects
 
 Here are some projects I'm proud of:
-TBA
-
+- My Personal Portfolio: 
+    [Code](https://github.com/LiamVilbuni/LiamVilbuni)
+    [Live](https://liamvilbuni.vercel.app/)
+- SnippStack: A Snippet Manager
+    [Code](https://github.com/LiamVilbuni/SnippStack)
+- Advent Of Code Solutions: My solutions to the Advent of Code challenges in C++ & Python
+    [Code](https://github.com/LiamVilbuni/adventofcode)
+- ChemistrAI: An AI Chemistry Assistant
+    [Code](https://github.com/LiamVilbuni/ChemistrAI)
+    [Live](https://chemistrai.vercel.app/)
+    
 Feel free to explore my repositories and provide feedback. Contributions and issues are always welcome!
 
 Thanks for stopping by! 😊
